@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "witches_drop_blaze_powder",
+  "version": "1.4",
+  "name": "Witches Drop Blaze Powder",
+  "description": "Adds blaze powder to the witch loot pool while keeping all vanilla drops.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.witchesblazepowder.WitchesDropBlazePowder"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1"
+  }
+}
