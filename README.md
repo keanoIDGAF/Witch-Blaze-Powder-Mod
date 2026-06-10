@@ -12,6 +12,6 @@ All vanilla witch drops (glass bottles, glowstone dust, gunpowder, redstone, spi
 
 
 ## Download Mod
-To download this mod click on the following folders: Build -> Libs -> witches-drop-blaze-powder-1.4.jar
+To download this mod click on the following folders: Build -> Libs -> witches-drop-blaze-powder-1.0.jar
 
 Or just click on the Releases on the right and download the mod from there.
