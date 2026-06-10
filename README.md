@@ -1,4 +1,4 @@
-# Witches Drop Blaze Powder — v1.4
+# Witches Drop Blaze Powder — v1.0
 Fabric mod for Minecraft 1.21.1
 
 ## What it does
